@@ -9,7 +9,11 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 patreon: myommo
+
 open_collective: midasmyad
+
 ko_fi: myommo
+
 liberapay: MyO
+
 issuehunt: macxb
