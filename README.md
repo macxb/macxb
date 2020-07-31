@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Save/Load in GODOT(GDScript)
 - 💬 Ask me about anything you want, I may not reply...😏
 - 📫 How to reach me: discord @Midas[Μ¥ĄĐ]#9004
-- ⚡ Fun fact: ...
+- ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
