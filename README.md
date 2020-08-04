@@ -8,7 +8,6 @@
 - 📫 How to reach me: Discord [@Midas[Μ¥ĄĐ]#9004](https://discord.gg/2qd2cmy)
 - ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
 </br>
---
 
 
 ### 📺 Latest YouTube Videos
