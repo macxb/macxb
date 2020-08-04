@@ -10,7 +10,6 @@
 </br>
 --
 
-[![Midas's github stats](https://github-readme-stats.vercel.app/api?username=macxb)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -19,3 +18,5 @@
 - [MyO - We are Myriad](https://www.youtube.com/watch?v=2i3--jrlQjw)
 - [MyO - Born in Nexus](https://www.youtube.com/watch?v=8SFbWtUBHs8)
 <!-- YOUTUBE:END -->
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
