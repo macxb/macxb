@@ -20,4 +20,4 @@
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macxb&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macxb&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
