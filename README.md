@@ -8,7 +8,6 @@
 - 📫 How to reach me: Discord [@Midas[Μ¥ĄĐ]#9004](https://discord.gg/2qd2cmy)
 - ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
 </br>
-[![Visitor Count](https://profile-counter.glitch.me/macxb/count.svg)]
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -20,4 +19,4 @@
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macxb&count_private=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macxb&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
