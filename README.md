@@ -9,6 +9,10 @@
 - ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
+2. 🗣 Commented on [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
+3. 🎉 Merged PR [#5](https://github.com//macxb/MYAD-DO/pull/5) in [macxb/MYAD-DO](https://github.com//macxb/MYAD-DO)
+4. 🎉 Merged PR [#6](https://github.com//macxb/MYAD-CORE/pull/6) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
