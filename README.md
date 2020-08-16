@@ -8,6 +8,9 @@
 - 📫 How to reach me: Discord [@Midas[Μ¥ĄĐ]#9004](https://discord.gg/2qd2cmy)
 - ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
 
+<!-- GITACT:START -->
+<!-- GITACT:END -->
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Myriad: Origins (MyO) Dev Vids 2](https://www.youtube.com/watch?v=stp-tQMG93o)
