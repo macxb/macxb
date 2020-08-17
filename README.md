@@ -14,7 +14,7 @@
 1. ❗️ Closed issue [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 2. 🗣 Commented on [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 3. 🎉 Merged PR [#5](https://github.com//macxb/MYAD-DO/pull/5) in [macxb/MYAD-DO](https://github.com//macxb/MYAD-DO)
-4. 🎉 Merged PR [#6](https://github.com//macxb/MYAD-CORE/pull/6) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
+4. undefined
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
