@@ -13,7 +13,7 @@
 
 1. ❗️ Closed issue [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 2. 🗣 Commented on [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
-3. 🎉 Merged PR [#5](https://github.com//macxb/MYAD-DO/pull/5) in [macxb/MYAD-DO](https://github.com//macxb/MYAD-DO)
+3. undefined
 4. undefined
 <!--END_SECTION:activity-->
 
