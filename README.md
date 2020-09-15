@@ -15,7 +15,7 @@
 ### ⚡Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
+1. 🎉 Merged PR [#7](https://github.com//macxb/MYAD-CORE/pull/7) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 2. 🗣 Commented on [#5](https://github.com//macxb/MYAD-CORE/issues/5) in [macxb/MYAD-CORE](https://github.com//macxb/MYAD-CORE)
 3. undefined
 4. undefined
