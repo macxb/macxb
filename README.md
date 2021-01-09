@@ -29,6 +29,4 @@
 <!-- YOUTUBE:START -->
 - [Myriad: Origins (MyO) Dev Vids 2](https://www.youtube.com/watch?v=stp-tQMG93o)
 - [Myriad: Origins (MyO) Dev Vids 1](https://www.youtube.com/watch?v=XriNttqnjqg)
-- [MyO - We are Myriad](https://www.youtube.com/watch?v=2i3--jrlQjw)
-- [MyO - Born in Nexus](https://www.youtube.com/watch?v=8SFbWtUBHs8)
 <!-- YOUTUBE:END -->
