@@ -15,7 +15,7 @@
 ### ⚡Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#72](https://github.com/fenix-hub/godot-engine.github-integration/issues/72) in [fenix-hub/godot-engine.github-integration](https://github.com/fenix-hub/godot-engine.github-integration)
+1. 🎉 Merged PR [#8](https://github.com/macxb/MYAD-CORE/pull/8) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 2. ❗️ Opened issue [#72](https://github.com/fenix-hub/godot-engine.github-integration/issues/72) in [fenix-hub/godot-engine.github-integration](https://github.com/fenix-hub/godot-engine.github-integration)
 3. 🎉 Merged PR [#7](https://github.com/macxb/MYAD-CORE/pull/7) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 4. undefined
