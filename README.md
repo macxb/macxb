@@ -27,6 +27,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Myriad: Origins (MyO) Dev Vids 2](https://www.youtube.com/watch?v=stp-tQMG93o)
-- [Myriad: Origins (MyO) Dev Vids 1](https://www.youtube.com/watch?v=XriNttqnjqg)
+- [Myriad: Origins &lpar;MyO&rpar; Dev Vids 2](https://www.youtube.com/watch?v=stp-tQMG93o)
+- [Myriad: Origins &lpar;MyO&rpar; Dev Vids 1](https://www.youtube.com/watch?v=XriNttqnjqg)
 <!-- YOUTUBE:END -->
