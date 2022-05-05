@@ -15,10 +15,10 @@
 ### ⚡Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/macxb/MYAD-CORE/pull/14) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
-2. 🎉 Merged PR [#8](https://github.com/macxb/MYAD-DO/pull/8) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
-3. 🎉 Merged PR [#9](https://github.com/macxb/MYAD-DO/pull/9) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
-4. 🎉 Merged PR [#10](https://github.com/macxb/MYAD-CORE/pull/10) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
+1. 🎉 Merged PR [#15](https://github.com/macxb/MYAD-CORE/pull/15) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
+2. 🎉 Merged PR [#14](https://github.com/macxb/MYAD-CORE/pull/14) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
+3. 🎉 Merged PR [#8](https://github.com/macxb/MYAD-DO/pull/8) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
+4. 🎉 Merged PR [#9](https://github.com/macxb/MYAD-DO/pull/9) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
