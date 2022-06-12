@@ -15,10 +15,10 @@
 ### ⚡Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/macxb/MYAD-CORE/pull/15) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
-2. 🎉 Merged PR [#14](https://github.com/macxb/MYAD-CORE/pull/14) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
-3. 🎉 Merged PR [#8](https://github.com/macxb/MYAD-DO/pull/8) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
-4. 🎉 Merged PR [#9](https://github.com/macxb/MYAD-DO/pull/9) in [macxb/MYAD-DO](https://github.com/macxb/MYAD-DO)
+1. 🗣 Commented on [#92](https://github.com/fenix-hub/godot-engine.github-integration/issues/92) in [fenix-hub/godot-engine.github-integration](https://github.com/fenix-hub/godot-engine.github-integration)
+2. ❗️ Closed issue [#92](https://github.com/fenix-hub/godot-engine.github-integration/issues/92) in [fenix-hub/godot-engine.github-integration](https://github.com/fenix-hub/godot-engine.github-integration)
+3. 🎉 Merged PR [#15](https://github.com/macxb/MYAD-CORE/pull/15) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
+4. 🎉 Merged PR [#14](https://github.com/macxb/MYAD-CORE/pull/14) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
