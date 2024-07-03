@@ -15,7 +15,7 @@
 ### ⚡Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/macxb/MYAD-CORE/pull/21) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
+1. 🎉 Merged PR [#22](https://github.com/macxb/MYAD-CORE/pull/22) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 2. 🔒 Closed issue [#2](https://github.com/macxb/MyO/issues/2) in [macxb/MyO](https://github.com/macxb/MyO)
 3. 🎉 Merged PR [#20](https://github.com/macxb/MYAD-CORE/pull/20) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 4. 🎉 Merged PR [#14](https://github.com/macxb/MYAD-CORE/pull/14) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
