@@ -21,9 +21,9 @@
 4. 🎉 Merged PR [#23](https://github.com/macxb/MYAD-CORE/pull/23) in [macxb/MYAD-CORE](https://github.com/macxb/MYAD-CORE)
 <!--END_SECTION:activity-->
 
-<img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img align="left" alt="Midas's Github Stats" src="https://github-readmestats-tawny.vercel.app/api?username=macxb&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macxb&hide_border=true&count_private=true&theme=radical)](https://github.com/macxb/github-readme-stats)
+[![Top Langs](https://github-readmestats-tawny.vercel.app/api/top-langs/?username=macxb&hide_border=true&count_private=true&theme=radical)](https://github.com/macxb/github-readmestats)
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -31,3 +31,4 @@
 - [Myriad: Origins &lpar;MyO&rpar; Dev Vids 1](https://www.youtube.com/watch?v=XriNttqnjqg)
 - [Mark Bullous Live Stream](https://www.youtube.com/watch?v=CO4QPc03RrY)
 <!-- YOUTUBE:END -->
+https://github-readmestats-tawny.vercel.app
