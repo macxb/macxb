@@ -29,5 +29,4 @@
 <!-- YOUTUBE:START -->
 - [Myriad: Origins &lpar;MyO&rpar; Dev Vids 2](https://www.youtube.com/watch?v=stp-tQMG93o)
 - [Myriad: Origins &lpar;MyO&rpar; Dev Vids 1](https://www.youtube.com/watch?v=XriNttqnjqg)
-- [Mark Bullous Live Stream](https://www.youtube.com/watch?v=CO4QPc03RrY)
 <!-- YOUTUBE:END -->
