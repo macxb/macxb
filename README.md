@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborators with game that will eventually become an online experience app
 - 🤔 I’m looking for help with Save/Load in GODOT(GDScript)
 - 💬 Ask me about anything you want, I may not reply...😏
-- 📫 How to reach me: Discord [@Midas[Μ¥ĄĐ]#9004](https://discord.gg/2qd2cmy)
+- 📫 How to reach me: Discord [@midasmyad](https://discord.gg/2qd2cmy)
 - ⚡ Something to think about: If we only consume and reproduce and don't create, what make us different from the other animals?
 
 ### ⚡Latest GitHub Activity
